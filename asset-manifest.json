@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.1e911795.chunk.css",
-    "main.js": "./static/js/main.1f1aa121.chunk.js",
-    "main.js.map": "./static/js/main.1f1aa121.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.a1684338.js",
-    "runtime-main.js.map": "./static/js/runtime-main.a1684338.js.map",
-    "static/css/2.4658484b.chunk.css": "./static/css/2.4658484b.chunk.css",
-    "static/js/2.d7caaffb.chunk.js": "./static/js/2.d7caaffb.chunk.js",
-    "static/js/2.d7caaffb.chunk.js.map": "./static/js/2.d7caaffb.chunk.js.map",
-    "static/js/3.a139db17.chunk.js": "./static/js/3.a139db17.chunk.js",
-    "static/js/3.a139db17.chunk.js.map": "./static/js/3.a139db17.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/2.4658484b.chunk.css.map": "./static/css/2.4658484b.chunk.css.map",
-    "static/css/main.1e911795.chunk.css.map": "./static/css/main.1e911795.chunk.css.map",
-    "static/js/2.d7caaffb.chunk.js.LICENSE.txt": "./static/js/2.d7caaffb.chunk.js.LICENSE.txt",
-    "static/media/style.css": "./static/media/li-bg-menu.daa9e9a0.jpg",
-    "static/media/slick-theme.css": "./static/media/slick.c94f7671.ttf"
+    "main.css": "/mobile/static/css/main.156d1d5c.chunk.css",
+    "main.js": "/mobile/static/js/main.1f1aa121.chunk.js",
+    "main.js.map": "/mobile/static/js/main.1f1aa121.chunk.js.map",
+    "runtime-main.js": "/mobile/static/js/runtime-main.409c1c98.js",
+    "runtime-main.js.map": "/mobile/static/js/runtime-main.409c1c98.js.map",
+    "static/css/2.43b664d7.chunk.css": "/mobile/static/css/2.43b664d7.chunk.css",
+    "static/js/2.d7caaffb.chunk.js": "/mobile/static/js/2.d7caaffb.chunk.js",
+    "static/js/2.d7caaffb.chunk.js.map": "/mobile/static/js/2.d7caaffb.chunk.js.map",
+    "static/js/3.a139db17.chunk.js": "/mobile/static/js/3.a139db17.chunk.js",
+    "static/js/3.a139db17.chunk.js.map": "/mobile/static/js/3.a139db17.chunk.js.map",
+    "index.html": "/mobile/index.html",
+    "static/css/2.43b664d7.chunk.css.map": "/mobile/static/css/2.43b664d7.chunk.css.map",
+    "static/css/main.156d1d5c.chunk.css.map": "/mobile/static/css/main.156d1d5c.chunk.css.map",
+    "static/js/2.d7caaffb.chunk.js.LICENSE.txt": "/mobile/static/js/2.d7caaffb.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/mobile/static/media/li-bg-menu.daa9e9a0.jpg",
+    "static/media/slick-theme.css": "/mobile/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.a1684338.js",
-    "static/css/2.4658484b.chunk.css",
+    "static/js/runtime-main.409c1c98.js",
+    "static/css/2.43b664d7.chunk.css",
     "static/js/2.d7caaffb.chunk.js",
-    "static/css/main.1e911795.chunk.css",
+    "static/css/main.156d1d5c.chunk.css",
     "static/js/main.1f1aa121.chunk.js"
   ]
 }
